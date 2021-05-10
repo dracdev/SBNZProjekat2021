@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sbnz.controller.JewelleryShopController"/>
+    <fullyQualifiedTypeName name="com.sbnz.service.JewelleryShopService"/>
+    <fullyQualifiedTypeName name="com.sbnz.model.Product"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+    <fullyQualifiedTypeName name="com.example.sbnzProj2021.model.Test"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.kie.api.KieServices"/>
+    <fullyQualifiedTypeName name="org.kie.api.KieServices.Factory"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.kie.api.runtime.KieSession"/>
+    <fullyQualifiedTypeName name="org.kie.api.runtime.KieContainer"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+</qualifiedTypeNameHistroy>
