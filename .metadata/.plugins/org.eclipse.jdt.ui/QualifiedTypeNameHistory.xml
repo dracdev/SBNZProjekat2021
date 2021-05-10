@@ -13,4 +13,11 @@
     <fullyQualifiedTypeName name="org.kie.api.runtime.KieSession"/>
     <fullyQualifiedTypeName name="org.kie.api.runtime.KieContainer"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.example.sbnzProj2021.model.FilmGenre"/>
+    <fullyQualifiedTypeName name="com.example.sbnzProj2021.model.Enums.FilmClassification"/>
+    <fullyQualifiedTypeName name="com.example.sbnzProj2021.model.User"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
